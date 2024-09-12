@@ -13,6 +13,8 @@ private void m3() {
 	// TODO Auto-generated method stub
 
 }
+
+
 private void Selenium() {
 	// TODO Auto-generated method stub
 
@@ -22,7 +24,19 @@ private void Api() {
 
 }
 private void Python() {
+
 	// TODO Auto-generated method stub
 
+}
+private void Cucumber() {
+	// TODO Auto-generated method stub
+
+}
+private void Testng() {
+	// TODO Auto-generated method stub
+
+}
+private void Junit() {
+	
 }
 }
